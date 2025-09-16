@@ -76,8 +76,11 @@ To test the Movie Recommendation System, follow these steps:
 📸 Screenshots
 -------------
 The Movie Recommendation System provides a visual, interactive interface:
+
 Image 1: Homepage![Select Movie](Select%20Movie.png)
+
 Image 2: Similar Recommendation![Similars](screenshots/Similars.png)
+
 Image 3: Genre Recommendation![Genre](screenshots/Genre.png)
 
 📦 API Reference
