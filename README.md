@@ -76,9 +76,9 @@ To test the Movie Recommendation System, follow these steps:
 📸 Screenshots
 -------------
 The Movie Recommendation System provides a visual, interactive interface:
-[Image 1: Homepage](https://via.placeholder.com/400x300)
-[Image 2: Similar Recommendation](https://via.placeholder.com/400x300)
-[Image 3: Genre Recommendation](https://via.placeholder.com/400x300)
+Image 1: Homepage![Select Movie](https://via.placeholder.com/400x300)
+Image 2: Similar Recommendation![Similars](https://via.placeholder.com/400x300)
+Image 3: Genre Recommendation![Genre](https://via.placeholder.com/400x300)
 
 📦 API Reference
 ----------------
